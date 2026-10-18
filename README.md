@@ -83,5 +83,5 @@ Google Colab is recommended because the notebook uses `google.colab.files` for u
 ## Project Links
 
 - GitHub repository: PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
-- Google Drive folder: PASTE_YOUR_GOOGLE_DRIVE_FOLDER_LINK_HERE
+- Google Drive folder: https://drive.google.com/drive/folders/1gkJuaYaunvOaK-wgEXaGmnW4t2wqj9R7?usp=sharing
 - Presentation video: PASTE_YOUR_VIDEO_LINK_HERE
